@@ -1,0 +1,24 @@
+{
+  "name": "hexlet_js",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "first prj from hexlet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chance-comer/hexlet-js.git"
+  },
+  "keywords": [
+    "first",
+    "learn"
+  ],
+  "author": "kazantseva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chance-comer/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/chance-comer/hexlet-js#readme"
+}
